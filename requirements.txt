@@ -1,6 +1,6 @@
 txtsplit==1.0.0
-torch==2.8.0
-torchaudio==2.8.0
+torch==2.9.0
+torchaudio==2.9.0
 cached_path==1.7.3
 transformers==4.27.4
 num2words==0.5.12
